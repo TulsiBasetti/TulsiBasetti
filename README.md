@@ -23,7 +23,7 @@
   ## 🚀 Notable Projects
 - 📊 [BFSI_OCR](https://github.com/TulsiBasetti/BFSI_OCR): OCR pipeline for financial transaction analysis.  
 - 🔍 [Customer Churn Prediction](https://github.com/TulsiBasetti/customer-churn-prediction-using-ANN): Churn prediction using neural networks.  
-- ✍️ [Shakespeare LSTM](https://github.com/TulsiBasetti/Next_Word_Predictor_Shakespeare_Hamlet_LSTM): Next-word prediction on *Hamlet* using LSTM.  
+- ✍️ [Shakespeare LSTM](https://github.com/TulsiBasetti/Next_Word_Predictor-_Shakeshpeare_Hamlet_LSTM): Next-word prediction on *Hamlet* using LSTM.  
 - 📚 [Game of Thrones Word2Vec](https://github.com/TulsiBasetti/game-of-thrones-using-Word2Vec): Word embeddings trained on GoT dialogue data.
 
 
