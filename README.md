@@ -20,7 +20,7 @@
 - **Database:** MySQL
 
 
-  ## 🚀 Notable Projects
+## 🚀 Notable Projects
 - 📊 [BFSI_OCR](https://github.com/TulsiBasetti/BFSI_OCR): OCR pipeline for financial transaction analysis.  
 - 🔍 [Customer Churn Prediction](https://github.com/TulsiBasetti/customer-churn-prediction-using-ANN): Churn prediction using neural networks.  
 - ✍️ [Shakespeare LSTM](https://github.com/TulsiBasetti/Next_Word_Predictor-_Shakeshpeare_Hamlet_LSTM): Next-word prediction on *Hamlet* using LSTM.  
