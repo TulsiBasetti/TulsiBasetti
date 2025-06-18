@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tulsi Basetti
 
 🎓 I’m a Computer Science undergraduate passionate about **AI, Machine Learning, and NLP**.  
-🧠 I love building end-to-end ML pipelines and experimenting with deep learning models.  
+🧠 I enjoy building end-to-end machine learning pipelines and experimenting with deep learning models.  
 📚 Currently exploring advanced topics like BERT, LSTMs.
 
 💡 I’m looking to collaborate on real-world AI projects, internships, or open-source ML tools.  
