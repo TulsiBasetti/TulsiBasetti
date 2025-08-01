@@ -29,10 +29,9 @@
 
 
 ## 📚 Currently Learning
-- Brushing up my Machine Learning concepts  
-- Starting to learn Deep Learning (Transformers, attention mechanisms)  
-- Enrolled in AWS Cloud Architecture training course  
-- Contributing to open source via Keploy
+- Brushing up on my Machine Learning concepts  
+- Starting to learn Deep Learning (CNN,RNN, LSTM)  
+
 <!---
 TulsiBasetti/TulsiBasetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
