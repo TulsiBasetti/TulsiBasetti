@@ -28,9 +28,8 @@
 
 
 
-## 📚 Currently Learning
-- Brushing up on my Machine Learning concepts  
-- Starting to learn Deep Learning (CNN,RNN, LSTM)  
+## 📚 Currently Learning 
+- Transformers 
 
 <!---
 TulsiBasetti/TulsiBasetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
